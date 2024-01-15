@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-    var s3 string
-    s3 = "exit"
-	fmt.Println(s3,"Done")
+	var s2 string
+	s2 = "exit"
+	fmt.Println(s2, "Done")
 }
