@@ -7,3 +7,5 @@ func main() {
 	s2 = "exit"
 	fmt.Println(s2, "Done")
 }
+
+/// nothing
